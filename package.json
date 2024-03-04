@@ -1,0 +1,20 @@
+{
+  "name": "image-compressor-server",
+  "version": "1.0.0",
+  "description": "Web server for compressing images",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Andriasniy/image-compressor-server.git"
+  },
+  "author": "Andriasniy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.3",
+    "imgecompress": "^1.0.0"
+  }
+}
