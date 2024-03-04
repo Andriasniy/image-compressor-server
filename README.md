@@ -1,4 +1,3 @@
-```
 # Image Compressor Server
 
 Image Compressor Server is a web server for compressing images using the imgecompress package.
@@ -30,4 +29,3 @@ This endpoint accepts multipart form-data with images to be compressed. The comp
 ## License
 
 This project is licensed under the [ISC License](https://opensource.org/licenses/ISC).
-```
